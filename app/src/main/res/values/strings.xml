@@ -9,8 +9,4 @@
     <string name="btn_welcome">Welcome</string>
     <string name="btn_text_retry">Retry</string>
 
-    <string name="view_text_description">Description:</string>
-    <string name="view_text_brand">Brand:</string>
-    <string name="view_text_price">Price:</string>
-
 </resources>
